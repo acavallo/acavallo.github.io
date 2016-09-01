@@ -1,8 +1,9 @@
 p {
-  color : #FF00FF;
+  color : darkcyan;
 }
 
 nav {
   background-color : red;
   width: 50%;
+  textalign: center
 }
